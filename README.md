@@ -21,7 +21,10 @@ This project analyzes room occupancy data for the ground and first floors of a b
 
 ## 🎥 Code & Output Preview
 <div align="center">
-  <img src="workspace/image.png" alt="Dashboard Preview" width="500" />
+  <img src="https://github.com/user-attachments/assets/18d220c9-5b34-4791-89d6-818dbc95ec65" alt="DashboardPreview" width="500" />
+  <img src="https://github.com/user-attachments/assets/bba39614-9106-416b-966a-86d38f45ffcc" alt="Weekly Trends" width="500" />
+  <img src="https://github.com/user-attachments/assets/44a44ae2-6ddd-41f9-90f4-78d7712d2399" alt="Hourly Trends" width="500" />
+  <img src="https://github.com/user-attachments/assets/daf71db1-dc3b-4824-ae7c-440eec72ec44" alt="Anomalies" width="500" />
 </div>
 
 ---
