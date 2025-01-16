@@ -1,7 +1,7 @@
 ## <div align="center"> Room Utilization Analysis </div>
 
 <div align="center">
-  <img src="https://github.com/Vamsi-Mudila/Room-Utilization-Analysis/workspace/image.png" alt="Project Banner" width="600" />
+  <img src="https://github.com/user-attachments/assets/a2aa45e7-317a-4c34-be08-f56b463eaa2a" alt="Project Banner" width="600" />
 </div>
 
 <div align="center">
