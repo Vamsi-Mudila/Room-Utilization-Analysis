@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Dash-Framework-orange" alt="Dash Badge" />
   <img src="https://img.shields.io/badge/License-MIT-success" alt="License Badge" />
   <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen" alt="Contributions Badge" />
-  <a href="https://github.com/Vamsi-Mudila/Room-Utilization-Analysis/Report.pdf" target="_blank"><img src="https://img.shields.io/badge/Download%20Report-PDF-blue" alt="Download Report Badge" /></a>
+  <a href="https://github.com/user-attachments/files/18440413/Report.pdf" target="_blank"><img src="https://img.shields.io/badge/Download%20Report-PDF-blue" alt="Download Report Badge" /></a>
 </div>
 
 ---
@@ -69,7 +69,6 @@ Room-Utilization-Analysis/
 ├── workspace/                 # Working files
 │   ├── Code.ipynb             # Main Jupyter Notebook (analysis + dashboard)
 │   ├── Wellbeing Occupancy_DataSet.xlsx  # Dataset for analysis
-│   ├── image.png              # Dashboard preview or visualization image
 ├── .gitignore                 # File specifying files and directories to ignore in Git
 ├── LICENSE                    # MIT License details
 ├── README.md                  # Main project documentation
